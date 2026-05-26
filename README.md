@@ -2,6 +2,12 @@
 
 App mobile de produtividade feito com React Native, Expo e Supabase.
 
+## Screenshots
+
+| Login | Cadastro | Recuperar Senha |
+|-------|----------|-----------------|
+| ![Login](screenshots/login.png) | ![Cadastro](screenshots/cadastro.png) | ![Reset](screenshots/reset-senha.png) |
+
 ## Como rodar o projeto
 
 ### 1. Criar o projeto Expo
@@ -21,7 +27,7 @@ npm run reset-project
 
 ### 4. Clonar o repositório dentro da pasta app
 ```bash
-git clone https://github.com/xSTCLouDx/Luminous.git app
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO app
 ```
 
 ### 5. Instalar dependências
