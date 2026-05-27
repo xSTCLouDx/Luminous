@@ -74,3 +74,12 @@ No output você encontrará opções para abrir o app em:
 
 - [Expo documentation](https://docs.expo.dev/)
 - [Supabase documentation](https://supabase.com/docs)
+
+## Licença
+
+Copyright (c) 2024 Caue Stocco
+
+Este projeto é de uso livre para fins pessoais e educacionais.
+É proibida a venda, sublicenciamento ou comercialização deste software ou qualquer parte dele sem autorização expressa do autor.
+
+Todos os direitos comerciais são reservados exclusivamente ao autor.
